@@ -1,4 +1,10 @@
-pandas
 numpy
-sklearn
+scikit-learn==1.9.0
 matplotlib
+pandas
+joblib
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+python-dotenv
